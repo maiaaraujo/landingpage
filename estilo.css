@@ -56,11 +56,23 @@ button {
     background-color: #fff;
 }
 
+p {
+    display: flex;
+    justify-content: last baseline;
+    margin-right: 50px;
+    
+}
+
 .icone {
     display: flex;
-    justify-content: space-between;
+    justify-content: last baseline;
     margin-left: 350px;
-    margin-top: 20px;
+    
+}
+
+hr {
+    display: flex;
+    margin-bottom: 50px;
 }
 
 .texto-faq {
