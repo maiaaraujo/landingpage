@@ -37,9 +37,10 @@ button {
 
 .botao2 {
     display: flex;
+    width: 150px;
     height: 30px;
-    margin-top: 440px;
-    margin-left: 580px;
+    margin-top: 260px;
+    margin-left: 598px;
     
 }
 
@@ -49,7 +50,7 @@ button {
     width: 60%;
     margin-top: 600px;
     margin-left: 250px;
-    display: flexbox;
+    display: flex;
     justify-content: space-between;
     flex-direction: column;
     text-align: center;
@@ -77,13 +78,14 @@ hr {
 
 .texto-faq {
     width: 50%;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    margin-top: 300px;
+    height: 40px;
+    margin-top: 100px;
+    text-align: center;
+
+}    
     
     
-}
+
 
 .titulo {
     display: flex;
@@ -91,17 +93,30 @@ hr {
 }
 
 .secao-detalhes {
-    width: 40%;
+    width: 50%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    gap: 10px;
     text-align: center;
-    margin-top: 100px;
-    margin-left: 100px;
+    margin-top: 60px;
+    margin-left: 350px;
 }
+
+.secao-detalhes > div > article {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+    
+}
+
+
+
 
 .botao-rodape {
     display: flex;
     justify-content: end;
-    margin-top: 300px;
+    margin-top: 600px;
     
 }
