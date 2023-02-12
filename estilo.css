@@ -39,7 +39,7 @@ button {
     display: flex;
     height: 30px;
     margin-top: 440px;
-    margin-left: 170px;
+    margin-left: 580px;
     
 }
 
@@ -47,7 +47,7 @@ button {
 
 .faq1 {
     width: 60%;
-    margin-top: 200px;
+    margin-top: 600px;
     margin-left: 250px;
     display: flexbox;
     justify-content: space-between;
@@ -76,9 +76,11 @@ hr {
 }
 
 .texto-faq {
-    display: flexbox;
-    justify-content: space-between;
-    margin-right: 50px;
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
     
     
 }
@@ -86,6 +88,15 @@ hr {
 .titulo {
     display: flex;
     justify-content: space-around;
+}
+
+.secao-detalhes {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
 }
 
 .botao-rodape {
