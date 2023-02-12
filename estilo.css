@@ -37,10 +37,9 @@ button {
 
 .botao2 {
     display: flex;
-    justify-content: center;
     height: 30px;
-    margin-top: 400px;
-    margin-left: 20px;
+    margin-top: 415px;
+    margin-left: 60px;
     
 }
 
