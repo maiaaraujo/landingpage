@@ -71,10 +71,7 @@ p {
     
 }
 
-hr {
-    display: flex;
-    margin-bottom: 50px;
-}
+
 
 .texto-faq {
     width: 50%;
@@ -85,13 +82,6 @@ hr {
 }    
     
     
-
-
-.titulo {
-    display: flex;
-    justify-content: space-around;
-}
-
 .secao-detalhes {
     width: 50%;
     display: flex;
