@@ -76,22 +76,24 @@ p {
 .secao-detalhes {
     width: 50%;
     display: flex;
-    justify-content: space-between;
-    gap: 10px;
+    justify-content: space-around;
+    gap: 30px;
     text-align: center;
     margin-top: 60px;
     margin-left: 350px;
-}
-
-.secao-detalhes > div > article {
-    width: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: 1s;
+    text-align: left;
     
 }
 
+.secao-detalhes article:hover{
+    color: #588157;
+    transform: scale(1.2);
+    transition: 1s;
+}
+.material-symbols-outlined {
+    display: flex;
+    width: 60px;
+}
 
 
 
