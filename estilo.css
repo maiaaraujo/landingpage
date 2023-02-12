@@ -39,8 +39,8 @@ button {
     display: flex;
     justify-content: center;
     height: 30px;
-    margin-top: 485px;
-    margin-left: 10px;
+    margin-top: 400px;
+    margin-left: 20px;
     
 }
 
@@ -48,13 +48,27 @@ button {
 
 .faq1 {
     width: 60%;
-    margin: auto;
-    display:  flex;
-    justify-content: center;
+    margin-top: 200px;
+    margin-left: 250px;
+    display: flexbox;
+    justify-content: space-between;
     flex-direction: column;
     text-align: center;
     background-color: #fff;
 }
 
+.icone {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-top: 20px;
+}
 
+.texto-faq {
+    display: flexbox;
+    justify-content: space-between;
+    margin-right: 50px;
+    
+    
+}
 
