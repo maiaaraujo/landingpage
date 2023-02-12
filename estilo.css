@@ -59,8 +59,8 @@ button {
 
 p {
     display: flex;
-    justify-content: last baseline;
     margin-right: 50px;
+    margin-top: 50px;
     
 }
 
@@ -98,7 +98,7 @@ p {
 .botao-rodape {
     display: flex;
     justify-content: end;
-    margin-top: 600px;
+    margin-top: 900px;
     color: #386641;
     
 }
