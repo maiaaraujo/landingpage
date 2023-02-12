@@ -64,18 +64,9 @@ p {
     
 }
 
-.icone {
-    display: flex;
-    justify-content: last baseline;
-    margin-left: 350px;
-    
-}
-
-
-
 .texto-faq {
-    width: 50%;
-    height: 40px;
+    width: 90%;
+    height: 20px;
     margin-top: 100px;
     text-align: center;
 
@@ -108,5 +99,11 @@ p {
     display: flex;
     justify-content: end;
     margin-top: 600px;
+    color: #386641;
     
+}
+
+.icone {
+    margin-left: 50%;
+    margin-bottom: 10px;
 }
